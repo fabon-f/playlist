@@ -1,9 +1,12 @@
-#EXTM3U
+#aEXTM3U
 #EXTINF:0,橋本みゆき - The Day Takeoff (アリスソフト「大帝国」)
 https://www.youtube.com/watch?v=cDNvcqpaCPI
 
 #EXTINF:0,片霧烈火 - get the regret over (アリスソフト「闘神都市III」)
 https://www.youtube.com/watch?v=M4KgwwcMFVs
+
+#EXTINF:0,川村ゆみ - 永遠のアセリア (ザウス(本醸造)「永遠のアセリア」)
+https://www.youtube.com/watch?v=hcms7BTFbt4
 
 #EXTINF:0,橋本みゆき - 夢の無限回廊 (Purple software「ハピメア」)
 https://www.youtube.com/watch?v=US0dWBXRq8M
@@ -13,6 +16,9 @@ https://www.youtube.com/watch?v=jLarZ_S0Ji8
 
 #EXTINF:0,橋本みゆき - こころに響く恋ほたる (Purple software「アマツツミ」)
 https://www.youtube.com/watch?v=BCR94YzpPsU
+
+#EXTINF:0,山崎もえ - コトダマ紬ぐ未来 (Purple software「アマツツミ」)
+https://www.youtube.com/watch?v=rfbKdkmxTug
 
 #EXTINF:0,米倉千尋 - ReAliZe (ぱれっと「9-nine-ここのつここのかここのいろ」)
 https://www.youtube.com/watch?v=3AKw8QscwZc
@@ -49,6 +55,9 @@ https://www.youtube.com/watch?v=nRQFibE9wdE
 
 #EXTINF:0,KOTOKO - Isolation (CandySoft「つよきす」)
 https://www.youtube.com/watch?v=fjLUe473gZI
+
+#EXTINF:0,Duca - snow crystal (あざらしそふと「アマカノ」)
+https://www.youtube.com/watch?v=b9LbC8lVr20
 
 #EXTINF:0,佐咲紗花 - 夢と色でできている (feng「夢と色でできている」)
 https://www.youtube.com/watch?v=rPk7_PVeIDE
@@ -95,6 +104,9 @@ https://www.youtube.com/watch?v=G9Gcu1BgQPM
 #EXTINF:0,奥井雅美 - FISSION (Frontwing「グリザイアの楽園」)
 https://www.youtube.com/watch?v=vpXwxTXb_oE
 
+#EXTINF:0,Duca - ラムネ (ねこねこソフト「ラムネ」)
+https://www.youtube.com/watch?v=s8iBhFkID5s
+
 #EXTINF:0,KAKO - Happy birthday to... (コットンソフト「終わる世界とバースデイ」)
 https://www.youtube.com/watch?v=3AE5oC3VgsA
 
@@ -106,6 +118,12 @@ https://www.youtube.com/watch?v=qTgDCwNjzZU
 
 #EXTINF:0,miru - Sign (FLAT「うたてめぐり」)
 https://www.youtube.com/watch?v=tlsQqYjQ2KI
+
+#EXTINF:0,Duca - ISI (FLAT「うたてめぐり」)
+https://www.youtube.com/watch?v=elql9b_31IY
+
+#EXTINF:0,Duca - 光の溢れるときには (FLAT「うたてめぐり」)
+https://www.youtube.com/watch?v=KjubNLZ0mt0
 
 #EXTINF:0,遊女 - トラワレビト (FLAT「キラークイーン」「シークレットゲーム -KILLER QUEEN-」)
 https://www.youtube.com/watch?v=bju1xqxr8os
@@ -124,6 +142,9 @@ https://www.youtube.com/watch?v=M2shOfNNGRk
 
 #EXTINF:0,Duca - アイの庭 (CUFFS「Garden」)
 https://www.youtube.com/watch?v=D1YGeQLjdiw
+
+#EXTINF:0,Duca - 手紙 (Journey「なないろ航路」)
+https://www.youtube.com/watch?v=voF6KX25DhY
 
 #EXTINF:0,佐倉紗織 - true my heart (Lump of Sugar「Nursery Rhyme -ナーサリィ☆ライム-」)
 https://www.youtube.com/watch?v=2iZVvkxiGMY
@@ -196,6 +217,9 @@ https://www.youtube.com/watch?v=Hsj1q7fLuK8
 
 #EXTINF:0,KOTOKO - jihad (戯画「BALDR SKY Dive2 "RECORDARE"」)
 https://www.youtube.com/watch?v=zmf4ZN9NLHA
+
+#EXTINF:KOTOKO - Face of Fact (戯画「BALDR FORCE」)
+https://www.youtube.com/watch?v=XhMNgHiHKFY
 
 #EXTINF:0,Kicco - 消せない気持ち (tone work's「初恋1／1」)
 https://www.youtube.com/watch?v=vsmx5xq3PoM
@@ -350,14 +374,35 @@ https://www.youtube.com/watch?v=6AcoCvJ4ouE
 #EXTINF:0,kirina - 深紅の呂旗 -The One- (BaseSon「真・恋姫†無双～萌将伝～」)
 https://www.youtube.com/watch?v=xzpGTJ4yoMo
 
+#EXTINF:0,fripSide - fortuna on the Sixteenth night (Lapis lazuli「十六夜のフォルトゥーナ」)
+https://www.youtube.com/watch?v=YHAk8faQNu8
+
+#EXTINF:0,fripSide - with the light (Lapis lazuli「十六夜のフォルトゥーナ」)
+https://www.youtube.com/watch?v=iXmoRn8kPGE
+
 #EXTINF:0,真里歌 - quantum jump (SMEE「フレラバ 〜Friend to Lover〜」)
 https://www.youtube.com/watch?v=V4z3h0ubI5M
+
+#EXTINF:0,Duca - My Darling (SMEE「ピュア×コネクト」)
+https://www.youtube.com/watch?v=HuDafDpG-cw
+
+#EXTINF:0,黒木未知(遥そら)、パトリシア・オブ・エンド(小鳥居夕花)、夕莉シャチ(神代岬)、明日原ユウキ(桐谷華) - 野良猫ハート (HARUKAZE「ノラと皇女と野良猫ハート」)
+https://www.youtube.com/watch?v=8LehVxL6ytA
+
+#EXTINF:0,アイリス・ディセンバー・アンクライ(花園めい)、ノエル・ザ・ネクストシーズン(雨場つかさ) - クライングハート (HARUKAZE「ノラと皇女と野良猫ハート2」)
+https://www.youtube.com/watch?v=8HlJyiSriLs
 
 #EXTINF:0,紫咲ほたる - Re:TrymenT (RASK「Re:LieF 〜親愛なるあなたへ〜」)
 https://www.youtube.com/watch?v=cT3wbp17Ano
 
 #EXTINF:0,真里歌 - Knowing (Aries「俺の彼女のウラオモテ」)
 https://www.youtube.com/watch?v=K-VEjFG2RaM
+
+#EXTINF:0,Duca - Be confidence (Aries「タラレバ -as in What If stories-」)
+https://www.youtube.com/watch?v=V8YvxddNya8
+
+#EXTINF:0,真里歌 - If (Aries「タラレバ -as in What If stories-」)
+https://www.youtube.com/watch?v=gVSHsLDLOWw
 
 #EXTINF:0,霜月はるか - キボウのソラ (Cabbit「キミへ贈る、ソラの花」)
 https://www.youtube.com/watch?v=zwwnMQCO6eQ
@@ -374,6 +419,9 @@ https://www.youtube.com/watch?v=xBa1aCEJ0eE
 #EXTINF:0,青葉りんご - 楽園の扉 (CLOCKUP「euphoria」)
 https://www.youtube.com/watch?v=116zkTqCOhM
 
+#EXTINF:0,Mr.FanTastiC - Liar,Liar (CLOCKUP「DEAD DAYS」)
+https://www.youtube.com/watch?v=R89j6SLcklY
+
 #EXTINF:0,橋本みゆき - ∞未来 (TRUMPLE「失われた未来を求めて」)
 https://www.youtube.com/watch?v=V7M_T5aWRC4
 
@@ -383,6 +431,15 @@ https://www.youtube.com/watch?v=iaHBjHMWAw8
 #EXTINF:0,彩音 - Lunatic Tears... (Lass「11eyes -罪と罰と贖いの少女-」)
 https://www.youtube.com/watch?v=rmhv3k-Tecg
 
+#EXTINF:0,marina - 永久より永遠に (Lass「少女神域∽少女天獄 -The Garden of Fifth Zoa-」)
+https://www.youtube.com/watch?v=iaxiz1lY7RU
+
+#EXTINF:0,青葉りんご - イノセンス (3rdEye「幻創のイデア-Oratorio Phantasm Historia-」)
+https://www.youtube.com/watch?v=Ccf4q664Cd8
+
+#EXTINF:0,こめる - Indelible scene (3rdEye「幻創のイデア-Oratorio Phantasm Historia-」)
+https://www.youtube.com/watch?v=JWGGGyOXetU
+
 #EXTINF:0,原田ひとみ - 悠久の翼 (minori「ef - the first tale.」)
 https://www.youtube.com/watch?v=84zGwWsKqYY
 
@@ -391,6 +448,9 @@ https://www.youtube.com/watch?v=25l3At7lpXc
 
 #EXTINF:0,原田ひとみ - Tetra. (minori「トリノライン」)
 https://www.youtube.com/watch?v=DS_8h5_Bubg
+
+#EXTINF:0,茶太 - カンデコ (AXL「愛しい対象の護り方」)
+https://www.youtube.com/watch?v=yv_ICx-Pjd8
 
 #EXTINF:0,fripSide - sword of virgin (eufonie「恋剣乙女」)
 https://www.youtube.com/watch?v=ESQJQbezyUI
@@ -409,4 +469,7 @@ https://www.youtube.com/watch?v=rYI_ga2Hoh8
 
 #EXTINF:0,川田まみ - IMMORAL (BLUE GALE「IMMORAL」)
 https://www.youtube.com/watch?v=U1cCWYbjUqc
+
+#EXTINF:0,Duca - Innocent Desire (Frill「神待ちサナちゃん」)
+https://www.youtube.com/watch?v=8GBoLt9PJTI
 
